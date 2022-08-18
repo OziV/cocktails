@@ -4,7 +4,7 @@
 
 ## Site URL
 
-[Cocktails](https://oziv-birthday-reminder.netlify.app/)
+[Cocktails](https://oziv-cocktails.netlify.app/)
 
 ## Concepts
 
